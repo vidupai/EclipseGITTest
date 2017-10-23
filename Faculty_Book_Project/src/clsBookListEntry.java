@@ -47,5 +47,7 @@ public class clsBookListEntry {
 	private char testchange;
 	private char testchange1;
 	private char testchange2;
+	
+	private char testchange4;
 	//-->
 }
