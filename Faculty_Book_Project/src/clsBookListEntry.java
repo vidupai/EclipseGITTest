@@ -45,5 +45,7 @@ public class clsBookListEntry {
 	private double dblPrice;
 	private char chrType;
 	private char testchange;
+	private char testchange1;
+	private char testchange2;
 	//-->
 }
